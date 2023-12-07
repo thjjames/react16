@@ -1,5 +1,4 @@
-# used by @babel/preset-env & postcss-preset-env
-# Browsers that we support
-> 1%
+# used in @babel/preset-env & postcss-preset-env & autoprefixer and so on
+# see https://browsersl.ist/ for more browser compatibility details
+defaults
 last 2 versions
-not ie <= 10
